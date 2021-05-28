@@ -1,4 +1,4 @@
-name: nest rest cqrs pattern exemple
+name: "Deploy"
 
 on: 
   pull_request:
